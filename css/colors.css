@@ -1,0 +1,48 @@
+/* RED */
+.neon-red {
+    border: 10px solid #ff073a;
+    box-shadow:
+        0 0 10px #ff073a,
+        0 0 20px #ff073a,
+        0 0 40px #ff073a,
+        0 0 80px #ff073a;
+}
+
+/* YELLOW */
+.neon-yellow {
+    border: 10px solid #fff200;
+    box-shadow:
+        0 0 10px #fff200,
+        0 0 20px #fff200,
+        0 0 40px #fff200,
+        0 0 80px #fff200;
+}
+
+/* BLUE */
+.neon-blue {
+    border: 10px solid #00cfff;
+    box-shadow:
+        0 0 10px #00cfff,
+        0 0 20px #00cfff,
+        0 0 40px #00cfff,
+        0 0 80px #00cfff;
+}
+
+/* GREEN */
+.neon-green {
+    border: 10px solid #39ff14;
+    box-shadow:
+        0 0 10px #39ff14,
+        0 0 20px #39ff14,
+        0 0 40px #39ff14,
+        0 0 80px #39ff14;
+}
+.neon-text {
+    color: #def3f3; /* bright cyan */
+    text-shadow:
+        0 0 5px #00ffff,
+        0 0 10px #00ffff,
+        0 0 20px #00ffff,
+        0 0 40px #00e0e0,
+        0 0 80px #00e0e0;
+}
