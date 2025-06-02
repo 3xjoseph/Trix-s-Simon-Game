@@ -2,7 +2,7 @@
 
 Trix's Simon Game is a web-based memory challenge inspired by the classic "Simon Says" game. Test how long you can remember and repeat an ever-growing sequence of colors and sounds!
 
-![Simon Game Preview](./imgs/image.png) <!-- Optional: Replace with actual image or remove -->
+![Simon Game Preview](./imgs/Image.png) <!-- Optional: Replace with actual image or remove -->
 
 ## 🛠️ Tech Stack
 
