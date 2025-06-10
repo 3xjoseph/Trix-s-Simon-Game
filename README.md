@@ -20,7 +20,7 @@ Trix's Simon Game is a web-based memory challenge inspired by the classic "Simon
 
 ## 🕹️ How to Play
 
-1. **Start the game** by pressing any key.
+1. **Start the game** by pressing the SPACE key.
 2. **Watch the pattern** of lights and sounds.
 3. **Repeat the pattern** by clicking the buttons in the same order.
 4. The sequence increases each round — see how far you can go!
